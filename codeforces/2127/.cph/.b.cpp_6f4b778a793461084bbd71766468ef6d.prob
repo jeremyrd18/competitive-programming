@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"d:\\Olimpiade Komputer\\OTW MEDALIS\\CF\\Atto 1\\b.cpp","tests":[{"id":1754580404414,"input":"4\n3 1\n..#\n4 2\n....\n5 3\n##..#\n6 4\n#...#.\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Olimpiade Komputer\\OTW MEDALIS\\CF\\Atto 1\\b.cpp","group":"local","local":true}

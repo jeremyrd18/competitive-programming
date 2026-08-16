@@ -1,0 +1,1 @@
+{"name":"Local: knapsack","url":"d:\\Olimpiade Komputer\\OTW MEDALIS\\TLX\\knapsack.cpp","tests":[{"id":1721012922116,"input":"30 4\n11 2\n12 2\n13 2\n14 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Olimpiade Komputer\\OTW MEDALIS\\TLX\\knapsack.cpp","group":"local","local":true}

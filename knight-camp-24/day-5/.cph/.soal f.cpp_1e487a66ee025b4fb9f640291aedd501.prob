@@ -1,0 +1,1 @@
+{"name":"Local: soal f","url":"d:\\Olimpiade Komputer\\OTW MEDALIS\\KNIGHT CAMP\\DAY 5\\soal f.cpp","tests":[{"id":1719469263086,"input":"5 10 2\n2 1 3 9 10\n1 5 6\n1 5 6\n1 4 4\n2 4 4 7 9\n1\n2\n","output":"\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Olimpiade Komputer\\OTW MEDALIS\\KNIGHT CAMP\\DAY 5\\soal f.cpp","group":"local","local":true}

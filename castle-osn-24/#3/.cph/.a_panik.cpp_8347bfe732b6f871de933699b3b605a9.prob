@@ -1,0 +1,1 @@
+{"name":"Local: a_panik","url":"d:\\Olimpiade Komputer\\OTW MEDALIS\\CASTLE\\#3\\a_panik.cpp","tests":[{"id":1721184618604,"input":"5\n5 2 4 3 1\n","output":"228"},{"id":1721185735575,"input":"5 0 0 0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Olimpiade Komputer\\OTW MEDALIS\\CASTLE\\#3\\a_panik.cpp","group":"local","local":true}
