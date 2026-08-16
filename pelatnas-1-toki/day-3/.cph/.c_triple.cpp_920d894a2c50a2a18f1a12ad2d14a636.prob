@@ -1,1 +1,0 @@
-{"name":"Local: c_triple","url":"d:\\Olimpiade Komputer\\OTW MEDALIS\\PELATNAS 1 TOKI\\DAY 3\\c_triple.cpp","tests":[{"id":1730355552080,"input":"7 3\n2 0 -1 1 -2 3 3\n1 5\n2 4\n1 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Olimpiade Komputer\\OTW MEDALIS\\PELATNAS 1 TOKI\\DAY 3\\c_triple.cpp","group":"local","local":true}

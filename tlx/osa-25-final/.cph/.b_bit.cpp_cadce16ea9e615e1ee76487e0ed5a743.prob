@@ -1,1 +1,0 @@
-{"name":"Local: b_bit","url":"d:\\Olimpiade Komputer\\OTW MEDALIS\\OSA 2025 FINAL\\b_bit.cpp","tests":[{"id":1737377266176,"input":"7\n1 1 1 1 1 1 1","output":""},{"id":1737378288643,"input":"5\n1 2 1 4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Olimpiade Komputer\\OTW MEDALIS\\OSA 2025 FINAL\\b_bit.cpp","group":"local","local":true}

@@ -1,1 +1,0 @@
-{"name":"Local: Mengantar Pesanan","url":"d:\\Olimpiade Komputer\\OTW MEDALIS\\OSN\\Mengantar Pesanan.cpp","tests":[{"id":1720457404839,"input":"5 6 4\n1 2 3\n1 4 6\n3 2 4\n3 4 2\n3 5 5\n5 4 8\n1\n3\n5\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Olimpiade Komputer\\OTW MEDALIS\\OSN\\Mengantar Pesanan.cpp","group":"local","local":true}
